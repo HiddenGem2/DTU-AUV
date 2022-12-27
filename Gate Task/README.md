@@ -1,1 +1,1 @@
-Run 'make' in terminal
+Run **make** in terminal
